@@ -1,0 +1,1 @@
+venv\Scripts\Activate -> Activa el entorno virtual
